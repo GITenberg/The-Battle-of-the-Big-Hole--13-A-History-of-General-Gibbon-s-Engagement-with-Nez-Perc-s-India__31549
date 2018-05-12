@@ -1,0 +1,31 @@
+_repo: The-Battle-of-the-Big-Hole--13-A-History-of-General-Gibbon-s-Engagement-with-Nez-Perc-s-India__31549
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shields, G. O. (George O.)
+    aliases:
+    - Shields, George O.
+    - Coquina
+    birthdate: 1846
+    deathdate: 1925
+    gutenberg_agent_id: '35321'
+    url: http://www.gutenberg.org/2009/agents/35321
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31549'
+  lccn: '02016602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Big Hole, Battle of the, Mont., 1877'
+- !lcc 'E011'
+title: "The Battle of the Big Hole\r\nA History of General Gibbon's Engagement with\
+  \ Nez Percés Indians in the Big Hole Valley, Montana, August 9th, 1877."
+url: http://www.gutenberg.org/ebooks/31549

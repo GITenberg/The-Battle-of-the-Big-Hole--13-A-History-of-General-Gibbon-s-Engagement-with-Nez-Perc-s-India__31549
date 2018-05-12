@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35321'
     url: http://www.gutenberg.org/2009/agents/35321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31549#The-Battle-of-the-Big-Hole--13-A-History-of-General-Gibbon-s-Engagement-with-Nez-Perc-s-India_
 gutenberg_issued: '2010-03-08'
 gutenberg_type: Text
 identifiers:
